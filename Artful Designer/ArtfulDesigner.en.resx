@@ -775,10 +775,10 @@
     <value>0, 0, 0, 0</value>
   </data>
   <data name="labelWelcome.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>1100, 520</value>
+    <value>1100, 550</value>
   </data>
   <data name="labelWelcome.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1100, 500</value>
+    <value>1100, 540</value>
   </data>
   <data name="labelWelcome.Text" xml:space="preserve">
     <value>
@@ -801,7 +801,151 @@
 
    Good luck!</value>
   </data>
+  <data name="labelBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>520, 160</value>
+  </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="labelBox2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>520, 160</value>
+  </data>
+  <data name="labelBox3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelBox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>520, 160</value>
+  </data>
+  <data name="labelBox4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelBox4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>520, 160</value>
+  </data>
+  <data name="buttonBackBox1.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="buttonBackBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Semibold, 9pt, style=Bold</value>
+  </data>
+  <data name="buttonBackBox1.Text" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="buttonLetsGo.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="buttonLetsGo.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Semibold, 9pt, style=Bold</value>
+  </data>
+  <data name="buttonLetsGo.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonLetsGo.Text" xml:space="preserve">
+    <value>Let's GO!</value>
+  </data>
+  <data name="buttonNextBox1.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="buttonNextBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Semibold, 9pt, style=Bold</value>
+  </data>
+  <data name="buttonNextBox1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonNextBox1.Text" xml:space="preserve">
+    <value>Next</value>
+  </data>
+  <data name="buttonBackBox2.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="buttonBackBox2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Semibold, 9pt, style=Bold</value>
+  </data>
+  <data name="buttonBackBox2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonBackBox2.Text" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="buttonBackBox3.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="buttonBackBox3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Semibold, 9pt, style=Bold</value>
+  </data>
+  <data name="buttonBackBox3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonBackBox3.Text" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="buttonBackBox4.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="buttonBackBox4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Semibold, 9pt, style=Bold</value>
+  </data>
+  <data name="buttonBackBox4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonBackBox4.Text" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="buttonNextBox2.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="buttonNextBox2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Semibold, 9pt, style=Bold</value>
+  </data>
+  <data name="buttonNextBox2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonNextBox2.Text" xml:space="preserve">
+    <value>Next</value>
+  </data>
+  <data name="buttonNextBox3.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="buttonNextBox3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Semibold, 9pt, style=Bold</value>
+  </data>
+  <data name="buttonNextBox3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonNextBox3.Text" xml:space="preserve">
+    <value>Next</value>
+  </data>
+  <data name="buttonNextBox4.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="buttonNextBox4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Semibold, 9pt, style=Bold</value>
+  </data>
+  <data name="buttonNextBox4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonNextBox4.Text" xml:space="preserve">
+    <value>Generate!</value>
+  </data>
+  <data name="buttonStartOver.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="buttonStartOver.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Semibold, 9pt, style=Bold</value>
+  </data>
+  <data name="buttonStartOver.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonStartOver.Location" type="System.Drawing.Point, System.Drawing">
+    <value>913, 132</value>
+  </data>
+  <data name="buttonStartOver.Size" type="System.Drawing.Size, System.Drawing">
+    <value>109, 23</value>
+  </data>
+  <data name="buttonStartOver.Text" xml:space="preserve">
+    <value>Start Over!</value>
+  </data>
   <data name="$this.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>Center</value>
   </data>
