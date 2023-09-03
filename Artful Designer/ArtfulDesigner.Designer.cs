@@ -35,8 +35,9 @@
             // labelWelcome
             // 
             resources.ApplyResources(labelWelcome, "labelWelcome");
+            labelWelcome.AllowDrop = true;
             labelWelcome.BackColor = Color.Transparent;
-            labelWelcome.FlatStyle = FlatStyle.Popup;
+            labelWelcome.FlatStyle = FlatStyle.Flat;
             labelWelcome.ForeColor = SystemColors.ButtonHighlight;
             labelWelcome.Name = "labelWelcome";
             labelWelcome.UseCompatibleTextRendering = true;
@@ -53,7 +54,6 @@
             Name = "ArtfulDesigner";
             Load += ArtfulDesigner_Load;
             ResumeLayout(false);
-            PerformLayout();
         }
 
         #endregion
