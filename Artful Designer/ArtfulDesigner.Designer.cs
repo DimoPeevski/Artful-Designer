@@ -28,18 +28,36 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ArtfulDesigner));
+            labelWelcome = new Label();
             SuspendLayout();
             // 
-            // Form1
+            // labelWelcome
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            resources.ApplyResources(labelWelcome, "labelWelcome");
+            labelWelcome.BackColor = Color.Transparent;
+            labelWelcome.FlatStyle = FlatStyle.Popup;
+            labelWelcome.ForeColor = SystemColors.ButtonHighlight;
+            labelWelcome.Name = "labelWelcome";
+            labelWelcome.UseCompatibleTextRendering = true;
+            // 
+            // ArtfulDesigner
+            // 
+            resources.ApplyResources(this, "$this");
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1184, 561);
-            Name = "Form1";
-            Text = "Form1";
+            BackgroundImage = Properties.Resources.artful_designer_background;
+            Controls.Add(labelWelcome);
+            DoubleBuffered = true;
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            MaximizeBox = false;
+            Name = "ArtfulDesigner";
+            Load += ArtfulDesigner_Load;
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        public Label labelWelcome;
     }
 }

@@ -6,5 +6,10 @@ namespace Artful_Designer
         {
             InitializeComponent();
         }
+
+        private void ArtfulDesigner_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
